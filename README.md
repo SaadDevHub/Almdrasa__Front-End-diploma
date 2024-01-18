@@ -1,2 +1,2 @@
 # Almdrasa__Front-End-diploma
-A comprehensive 6 months diploma to learn front end development
+"A comprehensive 6-month diploma on Almdrasa's platform, focusing on front-end development from programming fundamentals to React. This journey has equipped me with in-depth knowledge of HTML, CSS, JavaScript, and advanced concepts like responsive design and state management using React. Explore the projects and challenges completed throughout the program, showcasing my evolving skills in creating dynamic and user-friendly web applications."
