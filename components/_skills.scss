@@ -1,0 +1,26 @@
+.skills__list {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  row-gap: 5rem;
+  grid-column: 1/-1;
+}
+
+.skills__title {
+  font-size: var(--font-size-38);
+  font-weight: var(--font-weight-bold);
+}
+
+.skills__experience {
+  font-size: var(--font-size-20);
+  display: inline-block;
+  margin-top: 1rem;
+}
+
+.skills__item {
+  transition: var(--transition-timing);
+  user-select: none;
+}
+
+.skills__item:hover {
+  text-shadow: 0 0 2px var(--color-green);
+}
